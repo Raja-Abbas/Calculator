@@ -22,7 +22,7 @@ body{
     border-radius: 16px;
     background: transparent;
     box-shadow: 0px 3px 15px rgba(113, 115, 119, 0.5);
-
+    background: #676b64;
 }
 
 input{
